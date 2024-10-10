@@ -12,12 +12,14 @@ An oneline lecture for non-CS major students who wish to understand the basic co
 
 Syllabus
 ======
+Lecture 1
+===
 * Lecture 1: Machine Learning Basics
   * AI vs Machine Learning vs Deep Learning
   * Task, Experience, Performance Measure
 
-* Lecture 2: ML Basics(2)
-  Generalization & Overfitting
+**Lecture 2: ML Basics(2)**
+* Generalization & Overfitting
   * Generalization, Bias, Variance, Capacity
   * Overfitting
 

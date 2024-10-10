@@ -11,11 +11,12 @@ location: "Seoul, South Korea"
 A talk on specific processes that must be followed to ensure smooth project execution for aspiring entrepreneurs in the social venture field.
 
 
-Topic: 5 steps for social venture project
+Topic
 ======
+**5 steps for social venture project** 
 
 1. Definition of social problem
 2. Validation of social problem
 3. Solution development
-4) Solution validation
-5) Solution improvement
+4. Solution validation
+5. Solution improvement

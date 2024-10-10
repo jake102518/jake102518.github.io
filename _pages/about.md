@@ -7,12 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-![Picture of Me](/images/me.png){: .align-right width="300px"}
+![Picture of Me](/images/me.jpg){: .align-right width="300px"}
 Hello there! I am a senior student majoring Architectural Engineering and double majoring Computer Science in Yonsei University, Seoul, South Korea. 
+
+
+📚 Research Interest
+------
 
 I am interested in digital transformation of architecture engineering and construction (AEC) industry. Specifically, most of my research is about adapting machine learning and deep learning techniques on AEC problems such as compliance checking, automated BIM model generation, and utilizing LiDAR data.
 
-My Philosophy
+💡 My Philosophy
 ------
 
 **"The Giraffe's Perspective"**

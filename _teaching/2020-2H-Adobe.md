@@ -1,18 +1,18 @@
 ---
-title: "No-Code Introduction to Deep Learning for Non-Majors"
+title: "Adobe Premier Rush Workshop"
 collection: teaching
-type: "Non-CS Majors"
-permalink: /teaching/2024-winter-nocodeDL
-venue: "Yonsei University"
-date: 2024-12-01
+type: "Middle School Students"
+permalink: /teaching/2020-2H-Adobe
+venue: "Seodaemun-gu Lifelong Learning Center"
+date: 2020-07-01
 location: "Seoul, South Korea"
 ---
 
-An oneline lecture for non-CS major students who wish to understand the basic concepts of deep learning and help them start their own deep learning research related to their field of study (Opens in December, 2024).
+Assistant Lecturer of "Adobe Premier Rush Workshop". 
 
 Syllabus
 ======
-**Lecture 1: ML Basics(1)**
+**How to Use Adobe Premier Rush**
 * Lecture 1: Machine Learning Basics
   * AI vs Machine Learning vs Deep Learning
   * Task, Experience, Performance Measure

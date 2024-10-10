@@ -10,10 +10,13 @@
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
-                <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" target="_blank">{{ link.title }}</a></li>
               {% else %}
-                {% assign domain = base_path %}
-                <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+              {% assign domain = base_path %}
+            {% endif %}
+            {% if link.url contains 'http' or link.url contains 'CV' %}
+              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" target="_blank">{{ link.title }}</a></li>
+            {% else %}
+              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
             {% endif %}
           {% endfor %}
         </ul>

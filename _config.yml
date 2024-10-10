@@ -24,9 +24,9 @@ author:
   avatar           : "profile.jpeg"
   name             : "Jaekun Lee"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Researcher at Building Informatics Group"
   location         : "Seoul, South Korea"
-  employer         : "Building Informatics Group, Yonsei University"
+  employer         : "Yonsei University"
   uri              : # URL
   email            : "jake102518@yonsei.ac.kr" 
 

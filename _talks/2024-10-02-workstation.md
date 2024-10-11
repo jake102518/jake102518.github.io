@@ -14,9 +14,8 @@ A talk on specific processes that must be followed to ensure smooth project exec
 Topic
 ======
 **5 steps for social venture project** 
-
-1. Definition of social problem
-2. Validation of social problem
-3. Solution development
-4. Solution validation
-5. Solution improvement
+    1. Definition of social problem
+    2. Validation of social problem
+    3. Solution development
+    4. Solution validation
+    5. Solution improvement

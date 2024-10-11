@@ -8,19 +8,19 @@ date: 2024-12-01
 location: "Seoul, South Korea"
 ---
 
-An oneline lecture for non-CS major students who wish to understand the basic concepts of deep learning and help them start their own deep learning research related to their field of study (Opens in December, 2024).
+An online lecture for non-CS major students who wish to understand the basic concepts of deep learning and help them start their own deep learning research related to their field of study (Opens in December, 2024).
 
 Syllabus
 ======
 **Lecture 1: ML Basics(1)**
-* Lecture 1: Machine Learning Basics
-  * AI vs Machine Learning vs Deep Learning
-  * Task, Experience, Performance Measure
+  * Lecture 1: Machine Learning Basics
+    * AI vs Machine Learning vs Deep Learning
+    * Task, Experience, Performance Measure
 
 **Lecture 2: ML Basics(2)**
-* Generalization & Overfitting
-  * Generalization, Bias, Variance, Capacity
-  * Overfitting
+  * Generalization & Overfitting
+    * Generalization, Bias, Variance, Capacity
+    * Overfitting
 
 **Lect 2: ML Basics(2)**
 * Generalization & Overfitting

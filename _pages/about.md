@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-![Picture of Me](/images/me.jpg){: .align-right width="300px"}
-Hello there! I am a senior student majoring Architectural Engineering and double majoring Computer Science in Yonsei University, Seoul, South Korea. 
+![Picture of Me](/images/me.jpg){: .align-right width="200px"}
+Hello there! Thank you for visiting my website.
+I am a senior student majoring Architectural Engineering and double majoring Computer Science in Yonsei University, Seoul, South Korea. 
 
 
 📚 Research Interest

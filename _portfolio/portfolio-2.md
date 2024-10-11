@@ -12,6 +12,17 @@ PosART의 뛰어난 내구성과 내오염성을 최대한 활용하고자 천�
 
 The "Mokkoji" is a pergola that expresses the values of nature and tradition through modern technology, specifically using PosART. It offers a warm resting place where people can momentarily experience the beauty of nature and tradition amidst the modern, cold surroundings of apartment complexes. The pergola is designed as an open structure with the roof and sides exposed, making the most of PosART's superior durability and stain resistance. The roof structure is tilted at a 33-degree angle, allowing its shadow to function as a sundial. The inner walls of the pergola feature a four-color gradient, serving both as sundial markers and as a way to highlight the precise and delicate color representation that PosART provides. Additionally, since PosART is easy to manufacture and replace, two of the four colors can be swapped to match the season, allowing the pergola to reflect the unique atmosphere of each season. The openings in the roof and the structural elements are designed with traditional patterns, seamlessly integrating with modern architecture. By utilizing PosART’s adaptability, which allows easy seasonal changes, the pergola paradoxically emphasizes the enduring, unchanging values of tradition and nature.
 
+![Thumbnail Alt text](/images/mokkoji_1.jpg)
+![Thumbnail Alt text](/images/mokkoji_2.jpg)
+
+<details>
+  <summary>Click to view album</summary>
+
+  ![Alt text](/images/mokkoji_1.jpg)
+  ![Alt text](/images/mokkoji_2.jpg)
+
+</details>
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="/images/mokkoji_1.jpg" alt="Image 1" style="width: 50%;"/>
   <img src="/images/mokkoji_2.jpg" alt="Image 2" style="width: 50%;"/>

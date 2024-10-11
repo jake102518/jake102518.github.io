@@ -12,42 +12,65 @@ An online lecture for non-CS major students who wish to understand the basic con
 
 Syllabus
 ======
-**Lecture 1: ML Basics(1)**
-  * Lecture 1: Machine Learning Basics
-    * AI vs Machine Learning vs Deep Learning
-    * Task, Experience, Performance Measure
+<h2 style="margin-bottom: 5px;">Lecture 1: ML Basics(1)</h2>
+<ul style="margin-top: 0px; margin-bottom: 5px;">
+  <li>Lecture 1: Machine Learning Basics</li>
+  <ul style="margin-top: 0px;">
+    <li>AI vs Machine Learning vs Deep Learning</li>
+    <li>Task, Experience, Performance Measure</li>
+  </ul>
+</ul>
 
-**Lecture 2: ML Basics(2)**
-  * Generalization & Overfitting
-    * Generalization, Bias, Variance, Capacity
-    * Overfitting
+<h2 style="margin-top: 15px; margin-bottom: 5px;">Lecture 2: ML Basics(2)</h2>
+<ul style="margin-top: 0px; margin-bottom: 5px;">
+  <li>Generalization & Overfitting</li>
+  <ul style="margin-top: 0px;">
+    <li>Generalization, Bias, Variance, Capacity</li>
+    <li>Overfitting</li>
+  </ul>
+</ul>
 
-**Lect 2: ML Basics(2)**
-* Generalization & Overfitting
-  * Generalization, Bias, Variance, Capacity
-  * Overfitting
+<h2 style="margin-top: 15px; margin-bottom: 5px;">Lecture 3: DL Basics(1)</h2>
+<ul style="margin-top: 0px; margin-bottom: 5px;">
+  <li>Deep Learning Basics</li>
+  <ul style="margin-top: 0px;">
+    <li>MLP, Activation Function, Backpropagation</li>
+    <li>Optimizer</li>
+  </ul>
+</ul>
 
-**Lect 3: DL Basics(1)**
-* Deep Learning Basics
-  * MLP, Activation Function, Backpropagation
-  * Optimizer
+<h2 style="margin-top: 15px; margin-bottom: 5px;">Lecture 4: DL Basics(2)</h2>
+<ul style="margin-top: 0px; margin-bottom: 5px;">
+  <li>How to Use Deep Learning Models</li>
+  <ul style="margin-top: 0px;">
+    <li>How to choose an adequate model</li>
+    <li>How to enhance model performance</li>
+  </ul>
+</ul>
 
-**Lect 4: DL Basics(2)**
-* How to Use Deep Learning Models
-  * How to choose a adequate model
-  * How to enhance model performance
+<h2 style="margin-top: 15px; margin-bottom: 5px;">Lecture 5: LLM Basics(1)</h2>
+<ul style="margin-top: 0px; margin-bottom: 5px;">
+  <li>LLM Basics</li>
+  <ul style="margin-top: 0px;">
+    <li>What is a Language Model?</li>
+    <li>What is Pretraining?</li>
+  </ul>
+</ul>
 
-**Lect 5: LLM(1)**
-* LLM Basics
-  * What is a Language Model?
-  * What is a Pretraining?
+<h2 style="margin-top: 15px; margin-bottom: 5px;">Lecture 6: LLM Basics(2)</h2>
+<ul style="margin-top: 0px; margin-bottom: 5px;">
+  <li>Prompt Engineering & In-Context Learning</li>
+  <ul style="margin-top: 0px;">
+    <li>N-shot Learning</li>
+    <li>CoT, ToT, Multi-Persona, RAG</li>z  
+  </ul>
+</ul>
 
-**Lect 6: LLM(2)**
-* Prompt Engineering & In-context Learning
-  * N-shot Learning
-  * CoT, ToT, Multi-Persona, RAG
-
-**Lect 7: LLM(3)**
-* How to Use LLM
-  * NLP Tasks and LLM Model Comparison
-  * Context Window, Top-K, Top-P, Temperature
+<h2 style="margin-top: 15px; margin-bottom: 5px;">Lecture 7: LLM Basics(3)</h2>
+<ul style="margin-top: 0px;">
+  <li>How to Use LLM</li>
+  <ul style="margin-top: 0px;">
+    <li>NLP Tasks and LLM Model Comparison</li>
+    <li>Context Window, Top-K, Top-P, Temperature</li>
+  </ul>
+</ul>

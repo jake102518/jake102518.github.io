@@ -22,6 +22,7 @@ I am interested in digital transformation of architecture engineering and constr
 ------
 
 **"The Giraffe's Perspective"**
+
 A giraffe’s perspective can sometimes be likened to that of a Martian or someone sitting on a rooftop. By having a broader perspective than someone standing on the ground, one can reflect on their past and envision their future. The giraffe can see more, understand more, and improve more.
 
 A giraffe-like person is my personal motto. I strive to create and explore new ideas by collecting knowledge that I’ve gained from the past, sharing it with my colleagues, and adapting it to unfamiliar concepts that have not been attempted before.

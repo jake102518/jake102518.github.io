@@ -12,7 +12,7 @@ An online lecture for non-CS major students who wish to understand the basic con
 
 Syllabus
 ======
-<h2 style="margin-bottom: 5px;">Lecture 1: ML Basics(1)</h2>
+<h3 style="margin-bottom: 5px;">Lecture 1: ML Basics(1)</h3>
 <ul style="margin-top: 0px; margin-bottom: 5px;">
   <li>Lecture 1: Machine Learning Basics</li>
   <ul style="margin-top: 0px;">
@@ -21,7 +21,7 @@ Syllabus
   </ul>
 </ul>
 
-<h2 style="margin-top: 15px; margin-bottom: 5px;">Lecture 2: ML Basics(2)</h2>
+<h3 style="margin-top: 15px; margin-bottom: 5px;">Lecture 2: ML Basics(2)</h3>
 <ul style="margin-top: 0px; margin-bottom: 5px;">
   <li>Generalization & Overfitting</li>
   <ul style="margin-top: 0px;">
@@ -30,7 +30,7 @@ Syllabus
   </ul>
 </ul>
 
-<h2 style="margin-top: 15px; margin-bottom: 5px;">Lecture 3: DL Basics(1)</h2>
+<h3 style="margin-top: 15px; margin-bottom: 5px;">Lecture 3: DL Basics(1)</h3>
 <ul style="margin-top: 0px; margin-bottom: 5px;">
   <li>Deep Learning Basics</li>
   <ul style="margin-top: 0px;">
@@ -39,7 +39,7 @@ Syllabus
   </ul>
 </ul>
 
-<h2 style="margin-top: 15px; margin-bottom: 5px;">Lecture 4: DL Basics(2)</h2>
+<h3 style="margin-top: 15px; margin-bottom: 5px;">Lecture 4: DL Basics(2)</h3>
 <ul style="margin-top: 0px; margin-bottom: 5px;">
   <li>How to Use Deep Learning Models</li>
   <ul style="margin-top: 0px;">
@@ -48,7 +48,7 @@ Syllabus
   </ul>
 </ul>
 
-<h2 style="margin-top: 15px; margin-bottom: 5px;">Lecture 5: LLM Basics(1)</h2>
+<h3 style="margin-top: 15px; margin-bottom: 5px;">Lecture 5: LLM Basics(1)</h3>
 <ul style="margin-top: 0px; margin-bottom: 5px;">
   <li>LLM Basics</li>
   <ul style="margin-top: 0px;">
@@ -57,7 +57,7 @@ Syllabus
   </ul>
 </ul>
 
-<h2 style="margin-top: 15px; margin-bottom: 5px;">Lecture 6: LLM Basics(2)</h2>
+<h3 style="margin-top: 15px; margin-bottom: 5px;">Lecture 6: LLM Basics(2)</h3>
 <ul style="margin-top: 0px; margin-bottom: 5px;">
   <li>Prompt Engineering & In-Context Learning</li>
   <ul style="margin-top: 0px;">
@@ -66,7 +66,7 @@ Syllabus
   </ul>
 </ul>
 
-<h2 style="margin-top: 15px; margin-bottom: 5px;">Lecture 7: LLM Basics(3)</h2>
+<h3 style="margin-top: 15px; margin-bottom: 5px;">Lecture 7: LLM Basics(3)</h3>
 <ul style="margin-top: 0px;">
   <li>How to Use LLM</li>
   <ul style="margin-top: 0px;">

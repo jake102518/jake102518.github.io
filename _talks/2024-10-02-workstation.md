@@ -20,11 +20,6 @@ Topic
   4. Solution validation
   5. Solution improvement
 
-![Thumbnail Alt text](/images/workstation_1.jpg)
+![Thumbnail Alt text](/images/workstation_1.jpeg)
 
-![Thumbnail Alt text](/images/workstation_2.jpg)
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="/images/workstation_1.jpeg" alt="Image 1" style="width: 45%;"/>
-  <img src="/images/workstation_2.jpeg" alt="Image 2" style="width: 45%;"/>
-</div>
+![Thumbnail Alt text](/images/workstation_2.jpeg)

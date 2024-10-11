@@ -1,18 +1,13 @@
 ---
-title: "BABEMS"
-excerpt: "User Behavior Analysis-based Building Energy Management System<br/><img src='/images/BABEMS_main.png'>"
+title: "Mokkoji"
+excerpt: "A dynamic pergola that transforms with the four seasons using PosART<br/><img src='/images/mokkoji_1.jpg'>"
 collection: portfolio
 ---
 
-**1st Prize, 2019 Green Building Hackathon**
+**Win an Award, 2020 PosART Undergraduate Architecture Design Contest**
 
-본 아이디어는 사용자의 행동을 분석하여 건물의 에너지 소비량을 줄이는 에너지 관리 시스템이다. 기존 관리 시스템의 경우 센서와 설비를 중앙에서 통제하는 방식을 사용하고 있다. 이 방식은 신축 건물이 아닌 기존 건물에 적용하기 어려우며, 사용자 기호에 맞는 환경을 제공하기 어렵다. 이러한 문제점을 해결하고자 사용자의 행위 및 내부 환경 정보를 애플리케이션을 통해 수집하고, 이에 맞춰 에너지 사용을 조절하는 능동형 제어 시스템을 제안한다. 
+"Mokkoji" is a pergola that expresses the beauty of nature and tradition through a modern technology, PosART. It offers a warm resting place where people can experience the beauty inside the modern, cold surroundings of apartment complexes. The pergola is designed as an open structure, fully harnessing the PosART's superior durability and stain resistance. The roof structure is tilted at a 33-degree angle, allowing its shadow to function as a sundial. The inner walls of the pergola feature a four-color gradient, serving both as sundial markers and as a way to highlight the precise and delicate color representation that PosART provides. Additionally, since PosART is easy to manufacture and replace, colors can be swapped to match the season, allowing the pergola to reflect the unique atmosphere of each season. The openings in the roof and the structural elements are designed with traditional patterns, seamlessly integrating with modern architecture. By utilizing PosART’s adaptability, which allows easy changes, the pergola paradoxically emphasizes the enduring, unchanging values of tradition and nature.
 
-This concept is an energy management system designed to reduce a building’s energy consumption by analyzing user behavior. Traditional management systems typically control sensors and equipment centrally. However, this method is difficult to apply to existing buildings that are not newly constructed and struggles to provide an environment tailored to user preferences. To address these issues, we propose an active control system that collects user behavior and indoor environment information through an application and adjusts energy usage accordingly.
+![Thumbnail Alt text](/images/mokkoji_1.jpg)
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="/images/BABEMS_1.png" alt="Image 1" style="width: 45%;"/>
-  <img src="/images/BABEMS_2.png" alt="Image 2" style="width: 45%;"/>
-  <img src="/images/BABEMS_3.png" alt="Image 2" style="width: 45%;"/>
-  <img src="/images/BABEMS_4.png" alt="Image 2" style="width: 45%;"/>
-</div>
+![Thumbnail Alt text](/images/mokkoji_2.jpg)
